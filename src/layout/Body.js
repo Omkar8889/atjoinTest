@@ -1,9 +1,10 @@
 import React from 'react'
+import MyForm from '../coponents/MyForm'
 
 function Body() {
   return (
     <div>
-      this is body 
+      <MyForm/>
     </div>
   )
 }
